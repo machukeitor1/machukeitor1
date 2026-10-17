@@ -1,53 +1,59 @@
 # Cristian Machuca
 
-**Full-Stack Developer** · Chillán, Chile · Open to remote opportunities
+**Desarrollador Full Stack** · Chillán, Chile · Disponible para trabajo remoto
 
-I build web and mobile applications end to end, from database design and APIs to user interfaces and deployment. I currently develop and maintain a production e-commerce catalog and sales-quoting system for a building-materials retailer.
+Desarrollo aplicaciones web y móviles de punta a punta, desde el diseño de la base de datos y las APIs hasta la interfaz y el despliegue. Actualmente desarrollo y mantengo en producción el catálogo web y el sistema de cotizaciones de una empresa de materiales de construcción.
 
-Analista Programador (INACAP) and third-year Computer Engineering student. Certified in Full-Stack Development and Secure IT Infrastructure (INACAP), with additional certifications from Google and Microsoft.
+Analista Programador (INACAP) y estudiante de tercer año de Ingeniería en Informática. Certificado en Desarrollo Full Stack e Infraestructura TI Segura (INACAP), con certificaciones adicionales de Google y Microsoft.
 
-[LinkedIn](https://www.linkedin.com/in/cristianmachuca-dev) · [Email](mailto:c.machucariquelme@gmail.com) · Spanish (native), English (intermediate)
+[LinkedIn](https://www.linkedin.com/in/cristianmachuca-dev) · [Email](mailto:c.machucariquelme@gmail.com) · Español (nativo), inglés (intermedio)
 
 ---
 
-## Tech Stack
+## Tecnologías
 
-| Area | Technologies |
-|------|--------------|
-| **Languages** | TypeScript, JavaScript, Python, Kotlin, SQL |
+| Área | Tecnologías |
+|------|-------------|
+| **Lenguajes** | TypeScript, JavaScript, Python, Kotlin, SQL |
 | **Frontend** | Next.js, React, Tailwind CSS |
 | **Backend** | Node.js, Express, Django, Django REST Framework, Prisma ORM |
-| **Mobile** | Android (Kotlin, Coroutines), Flutter |
-| **Databases** | PostgreSQL, MySQL, SQLite |
-| **Cloud & DevOps** | Vercel, AWS (EC2, RDS, S3, IAM), Docker, Fly.io, Git |
-| **Quality & Security** | pytest, Locust, Bandit, JWT/bcrypt authentication, ISO 27001 fundamentals |
+| **Móvil** | Android (Kotlin, Coroutines), Flutter |
+| **Bases de datos** | PostgreSQL, MySQL, SQLite |
+| **Cloud y DevOps** | Vercel, AWS (EC2, RDS, S3, IAM), Docker, Fly.io, Git |
+| **Calidad y seguridad** | pytest, Locust, Bandit, autenticación JWT/bcrypt, fundamentos ISO 27001 |
 
 ---
 
-## Featured Projects
+## Proyectos destacados
 
-### Revestimientos Chillán — Product Catalog & Sales Quoting Platform
-**Production client project** · Next.js 14 · TypeScript · Prisma · PostgreSQL · Vercel
+### Revestimientos Chillán — Catálogo web y sistema de cotizaciones
+**Proyecto para cliente, en producción** · Next.js 14 · TypeScript · Prisma · PostgreSQL · Vercel
 
-- Public product catalog with per-m² and per-unit pricing and WhatsApp quote requests
-- Admin panel with full CRUD and bulk product import from Excel
-- Sales portal that generates quotes and exports them to PDF and Word
-- Role-based authentication (admin / sales rep) with JWT and bcrypt
+- Catálogo público de productos con precios por m² y por unidad, y solicitud de cotización por WhatsApp
+- Panel de administración con CRUD completo e importación masiva de productos desde Excel
+- Portal de vendedores que genera cotizaciones y las exporta a PDF y Word
+- Autenticación por roles (administrador / vendedor) con JWT y bcrypt
 
-**[Live site](https://www.revestimientoschillan.cl)** · **[Source code demo](https://github.com/machukeitor1/demopisos-catalog)**
+**[Sitio en producción](https://www.revestimientoschillan.cl)** · **[Demo del código fuente](https://github.com/machukeitor1/demopisos-catalog)**
 
-### OB Care — Obstetric Care Management System
-**Capstone project (INACAP), team of 4** · Django 5 · MySQL · Django REST Framework
+### OB Care — Sistema de Gestión Obstétrica
+**Proyecto Integrado INACAP, equipo de 4** · Django 5 · MySQL · Django REST Framework
 
-- Clinical management system with five user roles and obstetric, delivery and newborn records
-- My contributions: Physician module, legacy-system integration module, Midwife module UI improvements, data-protection compliance notices (Chilean Law 19.628), and testing/security with pytest, Locust and Bandit
+- Sistema clínico con cinco roles de usuario y fichas obstétricas, de parto y de recién nacido
+- Mi aporte: módulo Médico, módulo de integración con el sistema heredado, mejoras de interfaz del módulo Matrona, avisos de cumplimiento de la Ley 19.628 de protección de datos, y testing y seguridad con pytest, Locust y Bandit
 
-**[Repository](https://github.com/rjoserivera/OB_Care_Sistema_de_Gestion_Obstetrica)**
+**[Repositorio](https://github.com/rjoserivera/OB_Care_Sistema_de_Gestion_Obstetrica)**
 
-### Búsqueda por Rol CL — Property Lookup (Android + Web)
+### Búsqueda por Rol CL — Consulta de propiedades (Android + Web)
 Kotlin · Coroutines · Node.js · Express
 
-- Looks up a Chilean property's tax ID (ROL) by address using public SII services and downloads the property-tax debt certificate from TGR as PDF
-- Native Android app plus a web version with its own Express API
+- Consulta el ROL de avalúo de una propiedad por dirección usando servicios públicos del SII, y descarga en PDF el certificado de deuda de contribuciones de la TGR
+- App Android nativa y versión web con API propia en Express
 
-**[Android app](https://github.com/machukeitor1/Busqueda-por-Rol-CL)** · **[Web version](https://github.com/machukeitor1/busquedapropietarioweb)**
+**[App Android](https://github.com/machukeitor1/Busqueda-por-Rol-CL)** · **[Versión web](https://github.com/machukeitor1/busquedapropietarioweb)**
+
+---
+
+## In English
+
+Full-stack developer based in Chile, open to remote work. I build web and mobile applications end to end — database design, APIs, user interfaces and deployment — mainly with **Next.js, TypeScript, Node.js, Django and PostgreSQL**. I currently develop and maintain a production product catalog and sales-quoting platform for a building-materials company ([live site](https://www.revestimientoschillan.cl) · [source code demo](https://github.com/machukeitor1/demopisos-catalog)). Analista Programador (INACAP) and third-year Computer Engineering student.
