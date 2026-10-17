@@ -37,7 +37,7 @@ Analista Programador (INACAP) y estudiante de tercer año de Ingeniería en Info
 **[Sitio en producción](https://www.revestimientoschillan.cl)** · **[Demo del código fuente](https://github.com/machukeitor1/demopisos-catalog)**
 
 ### OB Care — Sistema de Gestión Obstétrica
-**Proyecto Integrado INACAP, equipo de 4** · Django 5 · MySQL · Django REST Framework
+**Proyecto Integrado INACAP, equipo de 5 Integrantes** · Django 5 · MySQL · Django REST Framework
 
 - Sistema clínico con cinco roles de usuario y fichas obstétricas, de parto y de recién nacido
 - Mi aporte: módulo Médico, módulo de integración con el sistema heredado, mejoras de interfaz del módulo Matrona, avisos de cumplimiento de la Ley 19.628 de protección de datos, y testing y seguridad con pytest, Locust y Bandit
