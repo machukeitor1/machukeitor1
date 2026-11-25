@@ -57,7 +57,7 @@ Desarrollo aplicaciones web y móviles de punta a punta, desde el diseño de la 
 - Los corredores generan cotizaciones numeradas en PDF eligiendo qué secciones incluir
 - Autenticación por roles (administrador / corredor) con JWT en cookie HttpOnly y bcrypt, y tests de integración de la API
 
-**[Sitio en desarrollo](https://geonuble.vercel.app)** · **[Repositorio](https://github.com/machukeitor1/geonuble)**
+**[geonuble.vercel.app](https://geonuble.vercel.app)** · **[Repositorio](https://github.com/machukeitor1/geonuble)**
 
 ### OB Care — Sistema de Gestión Obstétrica
 **Proyecto Integrado INACAP, equipo de 5 Integrantes** · Django 5 · MySQL · Django REST Framework
